@@ -10,6 +10,8 @@ Parlez du projet multimédia sélectionné.
 ### Carte heuristique
 Joindre la carte heuristique du projet. 
 
+![carte](image/cartep2.png)
+
 ### Technologies
 Nommer les technologies reliées au projet. 
 

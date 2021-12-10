@@ -18,6 +18,8 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
+![av](image/av.png)
+
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
 

@@ -14,3 +14,8 @@ Explorer les thèmes dans l'outil de présentation numérique de votre choix. Ch
 Thème 1 | Thème 2 | Thème 3
 --| -- | --
 Nom du thème  | Nom du thème | Nom du thème 
+![thème1](image/t1.png)
+
+![thème2](image/t2.png)
+
+![thème3](image/t3.png)

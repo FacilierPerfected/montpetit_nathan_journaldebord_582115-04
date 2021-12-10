@@ -14,7 +14,7 @@ Notre projet consiste en la création d'un jeu vidéo innovateur intégrant les 
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
-
+![scen](image/scen.png)
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
